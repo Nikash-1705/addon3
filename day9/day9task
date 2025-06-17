@@ -217,6 +217,8 @@ mysql> select * from students;
 +---------+--------------+---------+
 5 rows in set (0.00 sec)
 
+--------------------------------------------------------------------------------------------------------------
+MAIN PROGRAM:
 create table slibrary(
     -> stname varchar(10),
     -> rollno int,
